@@ -1,6 +1,5 @@
 version: STSv1
 mode: testing
 mx: portwayi-derby-sch-uk.mail.protection.outlook.com
-mx: mailserver.portwayi.derby.sch.uk
 max_age: 1209600
 
